@@ -1,0 +1,3 @@
+{"order_id":"ORD-1001","customer":"Ram","amount":1500,"status":"PLACED"}
+{"order_id":"ORD-1002","customer":"Amit","amount":2300,"status":"PLACED"}
+{"order_id":"ORD-1003","customer":"Neha","amount":1800,"status":"PLACED"}

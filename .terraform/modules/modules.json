@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"orders_topic","Source":"./modules/kafka-topic","Dir":"modules/kafka-topic"}]}
